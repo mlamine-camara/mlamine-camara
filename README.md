@@ -1,12 +1,12 @@
-Bonjour, je suis Mohamed Lamine Camara
+# Bonjour, je suis Mohamed Lamine Camara
 
-Data Analyst / Ingénieur SIG / Géomaticien
-
+### Data Analyst / Ingénieur SIG / Géomaticien
+ 
 Professionnel des données avec 8 ans d’expérience dans l’exploitation, la structuration et le contrôle de données techniques et géographiques, je développe aujourd’hui mes compétences en analyse de données afin de transformer les données en informations utiles à la décision.
 
 Formé au métier de Data Analyst, je combine une expérience opérationnelle en géomatique avec des compétences en programmation, analyse exploratoire, gestion de bases de données et visualisation.
 
-Mes Compétences techniques :
+## Compétences techniques :
 
 Python : pandas, NumPy, analyse exploratoire et nettoyage des données
 
@@ -20,7 +20,7 @@ SIG et cartographie : QGIS, ArcGIS, analyse spatiale et données géographiques
 
 Qualité des données : contrôle, structuration, fiabilisation et valorisation des données
 
-Mes Projets :
+## Projets :
 
 Analyse du mix énergétique en France — 2013–2023
 
@@ -40,15 +40,16 @@ Janvier – avril 2026 - 375 heures - RNCP Bloc 3, niveau 7
 Formation universitaire en géographie et géomatique
 Master 2 Géographie — Université Paris-Est Créteil (UPEC)
 
-🎯 Objectif professionnel
+## Objectif professionnel
 
 Je suis à la recherche de nouvelles opportunités en Data Analysis, SIG et géomatique, notamment dans les domaines des infrastructures, des données territoriales , commerce et marketing et de l'aide à la décision.
 
-Portfolio et profil professionnel
+## Portfolio et profil professionnel
 
 LinkedIn : Mohamed Lamine Camara
 
 GitHub : mlamine-camara
+
 J’explore, j’analyse et je valorise les données pour produire des résultats utiles à la décision.
 
 Merci de visiter mon profil !
